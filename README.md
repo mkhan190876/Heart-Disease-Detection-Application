@@ -1,0 +1,2 @@
+# Heart-Disease-Detection-Application
+A Heart disease detection application created using Python, Django, HTML, CSS, JS. This application predicts the presence of heart disease through utilizing a random forest classification ML model, utilized and implemented through Sci-Kit Learn. This repository includes the ML model created on a Jupyter notebook, and the application of that model as a web based prediction application.
